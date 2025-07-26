@@ -1,5 +1,7 @@
 # Danalensa - *masa depan keuanganmu, diprediksi hari ini*
 
+[![Cover PPT](https://github.com/user-attachments/assets/791c53eb-adc2-423a-bb60-7df22e2c7997)](https://docs.google.com/presentation/d/1LvhT7sEjKJ1_EdTiRrie6BM95V8PQC6NX5NVtxymkOA/edit?usp=sharing)
+
 **Danalensa** adalah sebuah inisiatif untuk membangun asisten keuangan pribadi berbasis AI yang dirancang untuk mengantisipasi potensi kesulitan finansial, sehingga dapat mengambil keputusan dan membangun kebiasaan menabung untuk memenuhi kewajiban finansial mereka.
 
 ## 💥Latar Belakang Masalah
@@ -15,6 +17,14 @@ Asisten keuangan AI yang sistematis membangun dana darurat, sebuah solusi jangka
 * *Memperingatkan* (*Warns*), yaitu mengidentifikasi potensi defisit dari keuangan pengguna.
 * *Memberdayakan* (*Empowers*), yaitu memberi rekomendasi untuk membangun Dana Siaga (dana yang disiapkan pengguna untuk menghadapi atau melakukan pembayaran tagihan) secara disiplin.
 
+### Figma
+* [Hi-Fi Design](https://www.figma.com/design/MI8p0P9HxzTg3wP9eeJwp5/Danalensa?node-id=2-215&t=Z5o03dwDw2VskAPr-1)
+* Prototype
+  - [First On Boarding](https://www.figma.com/proto/MI8p0P9HxzTg3wP9eeJwp5/Danalensa?page-id=2%3A217&node-id=187-2595&viewport=454%2C266%2C0.1&t=V8sqznxFiXhAeGiu-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=187%3A2595&show-proto-sidebar=1)
+  - [Tambah Dana Siaga Pertama Kali](https://www.figma.com/proto/MI8p0P9HxzTg3wP9eeJwp5/Danalensa?page-id=2%3A217&node-id=198-1959&viewport=454%2C266%2C0.1&t=V8sqznxFiXhAeGiu-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=198%3A1959&show-proto-sidebar=1)
+  - [Tambah Transaksi Saldo Kas](https://www.figma.com/proto/MI8p0P9HxzTg3wP9eeJwp5/Danalensa?page-id=2%3A217&node-id=256-2869&viewport=454%2C266%2C0.1&t=V8sqznxFiXhAeGiu-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=256%3A2869&show-proto-sidebar=1)
+  - [Tambah Transaksi Dana Siaga](https://www.figma.com/proto/MI8p0P9HxzTg3wP9eeJwp5/Danalensa?page-id=2%3A217&node-id=275-5746&viewport=454%2C266%2C0.1&t=V8sqznxFiXhAeGiu-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=275%3A5746&show-proto-sidebar=1)
+
 ## 📦 Komponen Proyek
 
 Proyek ini terdiri dari beberapa komponen utama yang bisa Anda jelajahi:
@@ -22,15 +32,13 @@ Proyek ini terdiri dari beberapa komponen utama yang bisa Anda jelajahi:
 * *[ML-POC] ml-danalensa-poc:* Repositori untuk riset dan validasi baseline model AI menggunakan Python dan SARIMA. Berisi notebook eksperimen dan script untuk generasi data sintetis.
 * *[Mobile App] mobile-app-danalensa:* Repositori untuk pengembangan aplikasi mobile menggunakan Flutter yang akan menjadi antarmuka utama bagi pengguna.
 
-## 🛠️ Tumpukan Teknologi Utama
+## 🛠️ Tech Stack
 
 * *Frontend:* Flutter
-* *Backend & AI:* Python (Flask/FastAPI), Statsmodels
+* *Backend & AI:* Python, Statsmodels
 * *Infrastruktur:* Google Cloud Platform (Cloud Run, Vertex AI, Cloud SQL)
 
 > Proyek ini sedang dikembangkan sebagai bagian dari partisipasi dalam BI-OJK Hackathon 2025
 
 Terima kasih sudah berkunjung!👋
-
-
 
