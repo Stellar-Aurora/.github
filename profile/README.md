@@ -9,6 +9,7 @@
 Jutaan pekerja di sektor ekonomi digital dan informal Indonesia (seperti pelaku UMKM, freelancer, dan pekerja gig-economy lainnya) adalah tulang punggung ekonomi, namun mereka menghadapi **ketidakpastian arus kas yang tinggi**. Kondisi ini membuat mereka sangat rentan terhadap guncangan finansial, kesulitan memenuhi kewajiban (seperti iuran BPJS dan cicilan), dan pada akhirnya menjadi target utama pinjaman online ilegal. Sedangkan solusi yang ada saat ini bersifat reaktif, hanya mencatat masa lalu.
 
 <br>
+
 ## 💡Solusi
 
 Pendekatan proaktif. Danalensa ingin menjawab tantangan fundamental, seperti yang diidentifikasi oleh AFPI(Asosiasi Fintech Pendanaan bersama Indonesia), yaitu pentingnya mengelola cash flow dengan baik.
@@ -38,6 +39,7 @@ Untuk memahami alur kerja Danalensa, berikut adalah preview flow design yang tel
 
 <br>
 <br>
+
 ## 📦 Komponen Proyek
 
 Saat ini, repo terdiri dari beberapa komponen sebagai berikut.
@@ -47,6 +49,7 @@ Saat ini, repo terdiri dari beberapa komponen sebagai berikut.
 
 <br>
 <br>
+
 ## 🛠️ Tech Stack
 
 * *Frontend:* Flutter
